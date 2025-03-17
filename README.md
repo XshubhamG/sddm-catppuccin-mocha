@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/2cfc947e-4621-4e98-b5f3-07d5e224b80c
 ![japanese_aesthetic](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/japanese_aesthetic.png?raw=true)|![pixel_sakura_static](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/pixel_sakura_static.png?raw=true)
 **Purple leaves**|**Cyberpunk**
 ![purple_leaves](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/purple_leaves.png?raw=true)|![cyberpunk](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/cyberpunk.png?raw=true)
-**Post-apocalyptic hacker**|**xxx**
-![post-apocalyptic_hacker](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/post-apocalyptic_hacker.png?raw=true)|
+**Post-apocalyptic hacker**|**Catppuccin street**
+![post-apocalyptic_hacker](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/post-apocalyptic_hacker.png?raw=true)| ![Catppuccin street](https://github.com/XshubhamG/sddm-astronaut-theme/blob/master/Previews/catppuccin-street-sddm.png?raw=true)
 
 **Hyprland Kath**
 
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/181d48c2-f152-45f5-b568-21145be180f6
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"
 ```
-> Works on distributions using pacman, xbps-install, dnf, zypper.   
+> Works on distributions using pacman, xbps-install, dnf, zypper.
 > Remember to always read the scripts you run from the internet.
 
 ### Manual Installation
@@ -111,7 +111,7 @@ sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/sddm-astronaut-theme
 ## Sources
 
 Initially the theme was independed fork of [MarianArlt's theme](https://github.com/MarianArlt/sddm-sugar-dark) but now the project has come a long way and started to significantly deviate from the original.
-Many of the wallpapers and fonts used in this project are very popular and copied from one user to another, so I don't know who the original creator is. 
+Many of the wallpapers and fonts used in this project are very popular and copied from one user to another, so I don't know who the original creator is.
 I also redesigned many of them, but here are links to some of the orginal artists who created these wonderful wallpapers:
 
 - Astronaut: [wallpaper](https://wallhaven.cc/w/e76pew), [font](https://fonts.google.com/specimen/Open+Sans/about)
@@ -123,7 +123,7 @@ I also redesigned many of them, but here are links to some of the orginal artist
 - Hyprland Kath: [wallpaper](https://motionbgs.com/andvari-last-origin), [font](https://www.1001fonts.com/pixelon-font.html)
 - Pixel sakura: [wallpaper](https://imgur.com/gallery/sakura-tree-with-petals-flying-off-t5tg4N8), [font](https://www.1001fonts.com/arcadeclassic-font.html)
 - Jake the dog: [wallpaper](https://motionbgs.com/jake-the-dog), [font](https://fontmeme.com/fonts/thunderman-font/)
-  
+
 ## Supporting project
 
 You can support me simply by dropping a **star** on **[github](https://github.com/Keyitdev/sddm-astronaut-theme)** or giving a **subscription** on **[YouTube](http://www.youtube.com/channel/UCVoGVyAP2sHPQyegwBMJKyQ?sub_confirmation=1)**.
@@ -132,5 +132,5 @@ If you enjoyed it and would like to show your appreciation, you can make a **[do
 
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/keyitdev)
 
-Distributed under the **[GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) License**.    
+Distributed under the **[GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) License**.
 Copyright (C) 2022-2025 Keyitdev.
