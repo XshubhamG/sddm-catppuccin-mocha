@@ -1,4 +1,4 @@
-# sddm-astronaut-theme
+<h1 align='center'>sddm-astronaut-theme</h1>
 
 [sddm-catppuccin-mocha](https://github.com/Keyitdev/sddm-catppuccin-mocha) is a series of themes for the [SDDM](https://github.com/sddm/sddm/) display manager made by **[Xshubhamg](https://github.com/xshubhamg)**.
 
@@ -6,9 +6,22 @@ It's written using the latest version of Qt, which is **Qt6**. Its key features 
 
 All themes were created for 1080p. However, they should work well in other resolutions.
 
-## Preview of animated themes
+## Previews
 
 ![Catppuccin street](https://github.com/XshubhamG/sddm-astronaut-theme/blob/main/Previews/catppuccin-street-sddm.png?raw=true)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png"/>
+</p>
+
+<details>
+<summary><h2>Detailed previews</h2></summary>
+
+|                                                      **Catppuccin street**                                                      |                                                    **Astronaut**                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![Catppuccin street](https://github.com/XshubhamG/sddm-catppuccin-mocha/blob/main/Previews/catppuccin-street-sddm.png?raw=true) | ![astronaut](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/astronaut.png?raw=true) |
+
+</details>
 
 ## Installation
 
@@ -39,7 +52,7 @@ sddm-qt6 libQt6Svg6 qt6-virtualkeyboard qt6-virtualkeyboard-imports qt6-multimed
 2. Clone this repository
 
 ```sh
-sudo git clone -b master --depth 1 https://github.com/xshubhamg/sddm-catppuccin-mocha.git /usr/share/sddm/themes/sddm-catppuccin-mocha
+sudo git clone -b main --depth 1 https://github.com/xshubhamg/sddm-catppuccin-mocha.git /usr/share/sddm/themes/sddm-catppuccin-mocha
 ```
 
 3. Copy fonts to `/usr/share/fonts/`
@@ -86,9 +99,17 @@ sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/sddm-catppuccin-moch
 
 ## Sources
 
-## Supporting project
+This sddm theme is based of [Keyitdev's astronaut sddm themes](https://github.com/Keyitdev/sddm-astronaut-theme). I used it as based
+and used background and fonts to match my [dotcat](https://github.com/xshubhamg/dotfiles) configuration. Fonts used in this project are very popular and copied from one user to another, so I don't know who the original creator is.
 
-You can support me simply by dropping a **star** on **[github](https://github.com/Keyitdev/sddm-astronaut-theme)**
+- Wallpaper arts are taken from [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
 
-Distributed under the **[GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) License**.
-Copyright (C) 2022-2025 Keyitdev.
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/xshubhamg/xshubhamg/LICENSE">
+      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPLv3+&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/>
+    </a>
+</p>
