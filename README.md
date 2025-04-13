@@ -1,4 +1,4 @@
-<h1 align='center'>sddm-astronaut-theme</h1>
+<h1 align='center'>sddm-catppuccin-mocha</h1>
 
 [sddm-catppuccin-mocha](https://github.com/Keyitdev/sddm-catppuccin-mocha) is a series of themes for the [SDDM](https://github.com/sddm/sddm/) display manager made by **[Xshubhamg](https://github.com/xshubhamg)**.
 
