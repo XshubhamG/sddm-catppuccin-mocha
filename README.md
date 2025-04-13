@@ -4,7 +4,7 @@
 
 It's written using the latest version of Qt, which is **Qt6**. Its key features include **virtual keyboard support** and an **installation script**. This theme also support **animated wallpapers**. You can easily change its appearance by choosing another of the ten pre-made themes or creating your own. Each of these themes was created by modifying just one file - **[config](./Themes/catppuccin_street.conf)**.
 
-All themes were created for 1080p. However, they should work well in other resolutions.
+All themes were created for 1400p. However, they should work well in other resolutions.
 
 ## Previews
 
@@ -19,7 +19,7 @@ All themes were created for 1080p. However, they should work well in other resol
 
 |                                                      **Catppuccin street**                                                      |                                                    **Astronaut**                                                     |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![Catppuccin street](https://github.com/XshubhamG/sddm-catppuccin-mocha/blob/main/Previews/catppuccin-street-sddm.png?raw=true) | ![astronaut](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/astronaut.png?raw=true) |
+| ![Catppuccin street](https://github.com/XshubhamG/sddm-catppuccin-mocha/blob/main/Previews/catppuccin-street-sddm.png?raw=true) | |
 
 </details>
 
